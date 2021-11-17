@@ -38,6 +38,7 @@ People choose popular projects, often not because it applies to their problems.
 
 - [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [You Might Not Need TypeScript (or Static Types)](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b#.8oxodypn7) - There's no question that static types can feel good. Biting into a hot glazed donut feels good. But is it really good for you?
+- [You Might Not Need TypeScript](https://jimmywarting.github.io/you-might-not-need-typescript/) - Goes to show that you can have static type in vanilla javascript without wasting compile time.
 
 ## Programming Practices
 
